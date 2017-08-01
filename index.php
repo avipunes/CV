@@ -1,1 +1,1 @@
-<?php header( 'Location: /cv.html' ) ;  ?>
+<?php header( 'Location: /cv - en.html' ) ;  ?>
