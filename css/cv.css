@@ -1,7 +1,7 @@
 /*Small up*/
 @media screen and (min-width:1px) {
 	ul {margin-left: 1.25rem; }
-	.content{ direction: ltr; }
+	.content, #nav-desktop{ direction: ltr; }
 	.ui-loader.ui-corner-all.ui-body-a.ui-loader-default{display: none;}
 	body{ overflow-x: hidden;	background-image: url(../images/Background.jpg); background-size: contain;}
 	.first { font-weight: bold; text-decoration: underline; margin-top: 10px; }
